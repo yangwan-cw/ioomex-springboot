@@ -1,0 +1,14 @@
+# 项目相关配置
+ioomex:
+  # 名称
+  name: ioomex
+  # 版本
+  version: ${revision}
+
+# 开发环境配置
+server:
+  # 服务器的HTTP端口，默认为8080
+  port: 9978
+  servlet:
+    # 应用的访问路径
+    context-path: /ioomex

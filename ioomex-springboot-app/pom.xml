@@ -29,6 +29,11 @@
             <groupId>com.ioomex</groupId>
             <artifactId>ioomex-springboot-common-web</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.ioomex</groupId>
+            <artifactId>ioomex-springboot-common-core</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

@@ -26,6 +26,12 @@
                 <artifactId>ioomex-springboot-common-web</artifactId>
                 <version>${revision}</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.ioomex</groupId>
+                <artifactId>ioomex-springboot-common-core</artifactId>
+                <version>${revision}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
